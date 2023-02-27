@@ -65,9 +65,4 @@ No other files
 
 19: after load press "Esc" 
 
-20: select "Execute a shell"
-
-21: press Enter
-
-22: type "shutdown"
-
+20: select "Abandon install"
